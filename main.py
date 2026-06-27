@@ -40,6 +40,7 @@ from PyQt6.QtGui import (
 DARK_BG      = "#0A0E1A"
 PANEL_BG     = "#0F1628"
 CARD_BG      = "#141C35"
+TEXT_BG      = "#F0F0F0"
 BORDER_COL   = "#1E2D5A"
 ACCENT_CYAN  = "#00D4FF"
 ACCENT_BLUE  = "#4A7BFF"
